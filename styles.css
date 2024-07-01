@@ -16,7 +16,7 @@ html,body {
 .wrapper {
     height: 100%;
     width: 100%;
-    background-image: url(/back.avif);
+    background-image: url(back.avif);
     background-position: center;
     background-size: cover;
     display: flex;
